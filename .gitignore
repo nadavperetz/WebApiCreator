@@ -102,4 +102,5 @@ pyvenv.cfg
 .venv
 pip-selfcheck.json
 
+/configs/config.py
 .idea
